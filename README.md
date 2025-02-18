@@ -18,7 +18,7 @@ I’ve built several applications, each showcasing my skills in **backend, front
 
 A simple and powerful **Todo List application** with built-in **reminders and push notifications** to keep you on track.
 
-🔗 [![View Project](https://img.shields.io/badge/View_Project-%2312100E?style=for-the-badge&logo=vercel)](https://your-todo-app-link)   
+🔗 **[View Project](https://your-snap-bank-server-link)**   
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript  

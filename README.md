@@ -18,7 +18,7 @@ I’ve built several applications, each showcasing my skills in **backend, front
 
 A simple and powerful **Todo List application** with built-in **reminders and push notifications** to keep you on track.
 
-🔗 **[View Project](https://your-todo-app-link)**  
+🔗 <a href="https://your-todo-app-link" target="_blank">View Project</a>  
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript  

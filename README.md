@@ -3,6 +3,9 @@
 Welcome to my self-hosted projects portfolio! 🎉  
 I’ve built several applications, each showcasing my skills in **backend, frontend, and full-stack development**. Check them out below! 👇
 
+[I have hosted most of these apps using ngrok and are running on the development environment. So user confirmation may be required for accessing the site.
+For apps with image recognition, if processing fails try with different images with clear face.]
+
 ---
 
 ## 🗂 Project List
@@ -16,9 +19,15 @@ I’ve built several applications, each showcasing my skills in **backend, front
 
 ## 📅 Todo App with Reminders
 
-A simple and powerful **Todo List application** with built-in **reminders and push notifications** to keep you on track.
+1. A simple and powerful **Todo List application** with built-in **reminders and push notifications** to keep you on track.
 
-🔗 **[View Project](https://your-snap-bank-server-link)**   
+🔗 **[View Project](https://e17f-49-187-176-123.ngrok-free.app/todo/)**   
+
+
+
+2. A simpler version of todo app with multiple card options
+
+🔗 **[View Project](https://47bd-49-187-176-123.ngrok-free.app/http-server/)** 
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript  
@@ -32,7 +41,7 @@ A simple and powerful **Todo List application** with built-in **reminders and pu
 
 A **Django-based backend** for real-time **face recognition**, age, gender, and emotion detection. Built using **OpenCV** and **ONNX models**.
 
-🔗 **[View Project](https://your-snap-bank-server-link)** 
+🔗 **[View Project](https://e17f-49-187-176-123.ngrok-free.app/snap_bank_server/)** 
 
 ### 🛠 Tech Stack:
 - **Backend:** Django, Python, OpenCV  
@@ -45,7 +54,7 @@ A **Django-based backend** for real-time **face recognition**, age, gender, and 
 
 The **frontend companion** to the Snap Bank Server, providing a user-friendly interface for uploading images and capturing live snapshots.
 
-🔗 **[View Project](https://your-snap-bank-client-link)** 
+🔗 **[View Project](https://47bd-49-187-176-123.ngrok-free.app/npm-app/)** 
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript, Dropzone.js  
@@ -58,7 +67,7 @@ The **frontend companion** to the Snap Bank Server, providing a user-friendly in
 
 A **movie streaming web application** with trailers and recommendations powered by the **TMDB API**. Features a **Disney+ style UI** with dynamic carousels.
 
-🔗 **[View Project](https://your-movie-stream-link)**   
+🔗 **[View Project](https://a9ab-49-187-176-123.ngrok-free.app/)**   
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript, Owl Carousel  
@@ -72,7 +81,7 @@ A **movie streaming web application** with trailers and recommendations powered 
 
 A comprehensive **Django-based admin system** for consultancies to manage students, agents, and leads with a built-in **Kanban board** for project tracking.
 
-🔗 **[View Project](https://your-admin-portal-link)** 
+🔗 **[View Project](https://everestglobalstudy.com)** 
 
 use following account for demo:
 username: demo

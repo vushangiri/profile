@@ -81,6 +81,8 @@ A **movie streaming web application** with trailers and recommendations powered 
 
 A comprehensive **Django-based admin system** for consultancies to manage students, agents, and leads with a built-in **Kanban board** for project tracking.
 
+This project is going to run in production. Currently, it's under development so there are a lot of bugs.
+
 🔗 **[View Project](https://everestglobalstudy.com)** 
 
 use following account for demo:

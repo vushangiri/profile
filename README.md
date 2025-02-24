@@ -65,7 +65,7 @@ The **frontend companion** to the Snap Bank Server, providing a user-friendly in
 
 ## 🎬 Movie Stream Platform
 
-A **movie streaming web application** with trailers and recommendations powered by the **TMDB API**. Features a **Disney+ style UI** with dynamic carousels.
+A **movie streaming web application** with trailers and recommendations powered by the **TMDB API**. Features a **Simple UI** with dynamic carousels.
 [I have built this for educational purpose only and do not endorse piracy. moreover, i have use vidsrc server too stream using imdb key]
 
 🔗 **[View Project](https://a9ab-49-187-176-123.ngrok-free.app/)**   

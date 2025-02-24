@@ -86,8 +86,10 @@ This project is going to run in production. Currently, it's under development so
 
 🔗 **[View Project](https://everestglobalstudy.com)** 
 
-use following account for demo:
+Use following credentials for login:
+
 username: demo
+
 password: demo
 
 ### 🛠 Tech Stack:

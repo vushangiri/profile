@@ -21,13 +21,13 @@ For apps with image recognition, if processing fails try with different images w
 
 1. A simple and powerful **Todo List application** with built-in **reminders and push notifications** to keep you on track.
 
-🔗 **[View Project](https://e17f-49-187-176-123.ngrok-free.app/todo/)**   
+🔗 **[View Project](https://0532-49-187-176-123.ngrok-free.app/todo/)**   
 
 
 
 2. A simpler version of todo app with multiple card options
 
-🔗 **[View Project](https://47bd-49-187-176-123.ngrok-free.app/http-server/)** 
+🔗 **[View Project](https://7326-49-187-176-123.ngrok-free.app/http-server/)** 
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript  
@@ -41,7 +41,7 @@ For apps with image recognition, if processing fails try with different images w
 
 A **Django-based backend** for real-time **face recognition**, age, gender, and emotion detection. Built using **OpenCV** and **ONNX models**.
 
-🔗 **[View Project](https://e17f-49-187-176-123.ngrok-free.app/snap_bank_server/)** 
+🔗 **[View Project](https://0532-49-187-176-123.ngrok-free.app/snap_bank_server/)** 
 
 ### 🛠 Tech Stack:
 - **Backend:** Django, Python, OpenCV  
@@ -54,7 +54,7 @@ A **Django-based backend** for real-time **face recognition**, age, gender, and 
 
 The **frontend companion** to the Snap Bank Server, providing a user-friendly interface for uploading images and capturing live snapshots.
 
-🔗 **[View Project](https://47bd-49-187-176-123.ngrok-free.app/npm-app/)** 
+🔗 **[View Project](https://7326-49-187-176-123.ngrok-free.app/npm-app/)** 
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript, Dropzone.js  
@@ -68,7 +68,7 @@ The **frontend companion** to the Snap Bank Server, providing a user-friendly in
 A **movie streaming web application** with trailers and recommendations powered by the **TMDB API**. Features a **Simple UI** with dynamic carousels.
 [I have built this for educational purpose only and do not endorse piracy. moreover, i have use vidsrc server too stream using imdb key]
 
-🔗 **[View Project](https://a9ab-49-187-176-123.ngrok-free.app/)**   
+🔗 **[View Project](https://44fa-49-187-176-123.ngrok-free.app/)**   
 
 ### 🛠 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript, Owl Carousel  

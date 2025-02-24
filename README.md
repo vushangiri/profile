@@ -52,7 +52,7 @@ A **Django-based backend** for real-time **face recognition**, age, gender, and 
 
 ## 💻 Snap Bank Client (Face Recognition Frontend)
 
-The **frontend companion** to the Snap Bank Server, providing a user-friendly interface for uploading images and capturing live snapshots.
+The **frontend only version** to the Snap Bank Server, providing a user-friendly interface for uploading images and capturing live snapshots. Js librariues like tensorflowjs and fast-api.js is used.
 
 🔗 **[View Project](https://7326-49-187-176-123.ngrok-free.app/npm-app/)** 
 
